@@ -18,17 +18,29 @@ Readings will be drawn from ....
 ## Schedule
 
 Week 1: Inspiration
+
 Week 2: What is Big Data?
+
 Week 3: Ethical Foundations
+
 Week 4: Fairness
+
 Week 5: Fairness
+
 Week 6: Privacy
+
 Week 7: Privacy
+
 Week 8: Automated Decision-Making and Interpretability
+
 Week 9: Laws for New Technologies
+
 Week 10: Accountability and Regulation
+
 Week 11: Transparency
+
 Week 12: Diversity
+
 Week 13: AI for Social Good and Reflection
 
 # Grading
