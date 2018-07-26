@@ -3,12 +3,16 @@ Ethical Issues Surrounding Artificial Intelligence Systems and Big Data
 
 - **Instructors**: Su Lin Blodgett (blodgett@cs.umass.edu), Abe Handler (ahandler@cs.umass.edu), Katie Keith (kkeith@cs.umass.edu)
 - **Semester**: Fall 2018
+- [Course Description](#description)
 - [Schedule and readings](#schedule)
 - [Grading](#grading)
 - [Help](#help)
 - [Policies](#policies)
 
-Course description (and/or learning goals):
+# Course description
+<a name="description"/>
+
+(and/or learning goals)
 
 # Schedule and readings
 <a name="readings"/>
