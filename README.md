@@ -8,6 +8,7 @@ Ethical Issues Surrounding Artificial Intelligence Systems and Big Data
 - [Grading](#grading)
 - [Help](#help)
 - [Policies](#policies)
+- [Additional Readings](#additional)
 
 # Course description
 <a name="description"/>
@@ -63,3 +64,8 @@ Office hours, etc.
 <a name="policies"/>
 
 Discussion guidelines
+
+# Additional readings
+<a name="additional"/>
+
+All the articles, books, videos we didn't assign can be linked here.
