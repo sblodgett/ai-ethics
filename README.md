@@ -20,25 +20,37 @@ Ethical Issues Surrounding Artificial Intelligence Systems and Big Data
 
 Readings will be drawn from ....
 
+Readings and videos listed under each week are to be done before that week's class.
+
 ## Schedule
 
 Week 1: Inspiration
 
-Week 2: What is Big Data?
+Week 2: Machine Learning Foundations
+
+[Machine Learning and Human Bias](https://www.youtube.com/watch?v=59bMh59JQDo)
+
+Introduction to Weapons of Math Destruction.
 
 Week 3: Ethical Foundations
 
 Week 4: Fairness
 
+[Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
+
+[A computer program used for bail and sentencing decisions was labeled biased against blacks. It’s actually not that clear.](https://www.washingtonpost.com/news/monkey-cage/wp/2016/10/17/can-an-algorithm-be-racist-our-analysis-is-more-cautious-than-propublicas/)
+
 Week 5: Fairness
 
-Week 6: Privacy
+Week 6: Fairness
+
+['Three black teenagers' Google search sparks outrage](https://www.usatoday.com/story/tech/news/2016/06/09/google-image-search-three-black-teenagers-three-white-teenagers/85648838/)
 
 Week 7: Privacy
 
-Week 8: Automated Decision-Making and Interpretability
+Week 8: Privacy
 
-Week 9: Laws for New Technologies
+Week 9: Automated Decision-Making and Interpretability
 
 Week 10: Accountability and Regulation
 
