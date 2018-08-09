@@ -32,29 +32,29 @@ Week 2: Machine Learning Foundations
 
 Introduction to Weapons of Math Destruction.
 
-Week 3: Ethical Foundations
+Week 3: Ethical Intuitions
 
-Week 4: Fairness
+Week 4: Ethical Foundations
+
+Week 5: Fairness
 
 [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 
 [A computer program used for bail and sentencing decisions was labeled biased against blacks. It’s actually not that clear.](https://www.washingtonpost.com/news/monkey-cage/wp/2016/10/17/can-an-algorithm-be-racist-our-analysis-is-more-cautious-than-propublicas/)
 
-Week 5: Fairness
-
 Week 6: Fairness
+
+Week 7: Fairness
 
 ['Three black teenagers' Google search sparks outrage](https://www.usatoday.com/story/tech/news/2016/06/09/google-image-search-three-black-teenagers-three-white-teenagers/85648838/)
 
-Week 7: Privacy
-
 Week 8: Privacy
 
-Week 9: Automated Decision-Making and Interpretability
+Week 9: Privacy
 
-Week 10: Accountability and Regulation
+Week 10: Automated Decision-Making and Interpretability
 
-Week 11: Transparency
+Week 11: Accountability and Regulation
 
 Week 12: Diversity
 
