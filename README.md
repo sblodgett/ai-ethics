@@ -63,9 +63,10 @@ Week 13: AI for Social Good and Reflection
 # Grading
 <a name="grading"/>
 
-- Attendance and in-class participation
-- Participation in online forums/discussion of readings
-- Other?
+Your grade will we be based equally on the following:
+
+- **50%** Online reading responses. Each week in this course you will write an online response to the readings on Moodle. You must turn in your response *before* class to receive credit for the week. 
+- **50%** Participation during class discussions. This class will have weekly in-class discussions. Different students may participate in different ways: for instance by talking in large groups, talking in small groups or listening carefully to others.
 
 # Getting help
 <a name="help"/>
