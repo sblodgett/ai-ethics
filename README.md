@@ -67,8 +67,10 @@ Face Recognition Technology](https://github.com/sblodgett/ai-ethics/blob/master/
 **Week 9: Privacy**
 
 [Amazon Echo and the Hot Tub Murder](https://github.com/sblodgett/ai-ethics/blob/master/readings/privacy/Echo.pdf)
+
 [How Target Figured Out A Teen Girl Was Pregnant Before Her Father Did
 ](https://github.com/sblodgett/ai-ethics/blob/master/readings/privacy/Target.pdf)
+
 [Congressional Republicans just voted to let ISPs sell your browsing history to advertisers
 ](https://github.com/sblodgett/ai-ethics/blob/master/readings/privacy/VoxISPs.pdf)
 
