@@ -57,8 +57,7 @@ Introduction to Weapons of Math Destruction.
 
 [Amazon’s facial recognition matched 28 members of Congress to criminal mugshots](https://github.com/sblodgett/ai-ethics/blob/master/readings/privacy/recognition.pdf)
 
-[Want to Predict the Future of Surveillance? Ask Poor Communities]
-(https://github.com/sblodgett/ai-ethics/blob/master/readings/privacy/future_of_surveillance.pdf)
+[Want to Predict the Future of Surveillance? Ask Poor Communities](https://github.com/sblodgett/ai-ethics/blob/master/readings/privacy/future_of_surveillance.pdf)
 
 Challenge reading: 
 
