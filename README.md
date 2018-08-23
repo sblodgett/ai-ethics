@@ -56,10 +56,12 @@ Introduction to Weapons of Math Destruction.
 **Week 8: Privacy**
 
 [Amazon’s facial recognition matched 28 members of Congress to criminal mugshots](https://github.com/sblodgett/ai-ethics/blob/master/readings/privacy/recognition.pdf)
+
 [Want to Predict the Future of Surveillance? Ask Poor Communities]
 (https://github.com/sblodgett/ai-ethics/blob/master/readings/privacy/future_of_surveillance.pdf)
 
 Challenge reading: 
+
 [Face Off: Law Enforcement Use Of
 Face Recognition Technology](https://github.com/sblodgett/ai-ethics/blob/master/readings/privacy/face-off-report-1b.pdf)
 
@@ -72,6 +74,7 @@ Face Recognition Technology](https://github.com/sblodgett/ai-ethics/blob/master/
 ](https://github.com/sblodgett/ai-ethics/blob/master/readings/privacy/VoxISPs.pdf)
 
 Challenge reading:
+
 [Simple Demographics Often Identify People Uniquely](https://dataprivacylab.org/projects/identifiability/paper1.pdf)
 
 **Week 10: Automated Decision-Making and Interpretability**
