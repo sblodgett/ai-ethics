@@ -27,32 +27,32 @@ Readings and videos listed under each week are to be done before that week's cla
 
 ## Schedule
 
-Week 1: Inspiration
+**Week 1: Inspiration**
 
-Week 2: Machine Learning Foundations
+**Week 2: Machine Learning Foundations**
 
 [Machine Learning and Human Bias](https://www.youtube.com/watch?v=59bMh59JQDo)
 
 Introduction to Weapons of Math Destruction.
 
-Week 3: Ethical Intuitions
+**Week 3: Ethical Intuitions**
 
-Week 4: Ethical Foundations
+**Week 4: Ethical Foundations**
 [Political Philosophy](https://TODO)
 
-Week 5: Fairness
+**Week 5: Fairness**
 
 [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 
 [A computer program used for bail and sentencing decisions was labeled biased against blacks. It’s actually not that clear.](https://www.washingtonpost.com/news/monkey-cage/wp/2016/10/17/can-an-algorithm-be-racist-our-analysis-is-more-cautious-than-propublicas/)
 
-Week 6: Fairness
+**Week 6: Fairness**
 
-Week 7: Fairness
+**Week 7: Fairness**
 
 ['Three black teenagers' Google search sparks outrage](https://www.usatoday.com/story/tech/news/2016/06/09/google-image-search-three-black-teenagers-three-white-teenagers/85648838/)
 
-Week 8: Privacy
+**Week 8: Privacy**
 
 [Amazon’s facial recognition matched 28 members of Congress to criminal mugshots](https://github.com/sblodgett/ai-ethics/blob/master/readings/privacy/recognition.pdf)
 [Want to Predict the Future of Surveillance? Ask Poor Communities]
@@ -62,7 +62,7 @@ Challenge reading:
 [Face Off: Law Enforcement Use Of
 Face Recognition Technology](https://github.com/sblodgett/ai-ethics/blob/master/readings/privacy/face-off-report-1b.pdf)
 
-Week 9: Privacy
+**Week 9: Privacy**
 
 [Amazon Echo and the Hot Tub Murder](https://github.com/sblodgett/ai-ethics/blob/master/readings/privacy/Echo.pdf)
 [How Target Figured Out A Teen Girl Was Pregnant Before Her Father Did
@@ -73,16 +73,16 @@ Week 9: Privacy
 Challenge reading:
 [Simple Demographics Often Identify People Uniquely](https://dataprivacylab.org/projects/identifiability/paper1.pdf)
 
-Week 10: Automated Decision-Making and Interpretability
+**Week 10: Automated Decision-Making and Interpretability**
 
-Week 11: Accountability and Regulation
+**Week 11: Accountability and Regulation**
 
 [The next big battle over internet freedom is here](https://www.vox.com/policy-and-politics/2018/4/23/17237640/fosta-sesta-section-230-internet-freedom)
 [What the government could actually do about Facebook](https://www.vox.com/policy-and-politics/2018/4/10/17208322/facebook-mark-zuckerberg-congress-testimony-regulation)
 
-Week 12: Diversity
+**Week 12: Diversity**
 
-Week 13: AI for Social Good and Reflection
+**Week 13: AI for Social Good and Reflection**
 
 # Grading
 <a name="grading"/>
