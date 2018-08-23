@@ -54,13 +54,27 @@ Week 7: Fairness
 
 Week 8: Privacy
 
+[Amazon’s facial recognition matched 28 members of Congress to criminal mugshots](https://github.com/sblodgett/ai-ethics/blob/master/readings/privacy/recognition.pdf)
+[Want to Predict the Future of Surveillance? Ask Poor Communities]
+(https://github.com/sblodgett/ai-ethics/blob/master/readings/privacy/future_of_surveillance.pdf)
+
 Week 9: Privacy
 
-[test](https://github.com/sblodgett/ai-ethics/blob/master/readings/privacy/Echo.pdf)
+[Amazon Echo and the Hot Tub Murder](https://github.com/sblodgett/ai-ethics/blob/master/readings/privacy/Echo.pdf)
+[How Target Figured Out A Teen Girl Was Pregnant Before Her Father Did
+](https://github.com/sblodgett/ai-ethics/blob/master/readings/privacy/Target.pdf)
+[Congressional Republicans just voted to let ISPs sell your browsing history to advertisers
+](https://github.com/sblodgett/ai-ethics/blob/master/readings/privacy/VoxISPs.pdf)
+
+Challenge reading:
+[Simple Demographics Often Identify People Uniquely](https://dataprivacylab.org/projects/identifiability/paper1.pdf)
 
 Week 10: Automated Decision-Making and Interpretability
 
 Week 11: Accountability and Regulation
+
+[The next big battle over internet freedom is here](https://www.vox.com/policy-and-politics/2018/4/23/17237640/fosta-sesta-section-230-internet-freedom)
+[What the government could actually do about Facebook](https://www.vox.com/policy-and-politics/2018/4/10/17208322/facebook-mark-zuckerberg-congress-testimony-regulation)
 
 Week 12: Diversity
 
