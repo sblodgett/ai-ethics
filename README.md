@@ -38,6 +38,7 @@ Introduction to Weapons of Math Destruction.
 Week 3: Ethical Intuitions
 
 Week 4: Ethical Foundations
+[Political Philosophy](https://TODO)
 
 Week 5: Fairness
 
@@ -54,6 +55,8 @@ Week 7: Fairness
 Week 8: Privacy
 
 Week 9: Privacy
+
+[test](https://github.com/sblodgett/ai-ethics/blob/master/readings/privacy/Echo.pdf)
 
 Week 10: Automated Decision-Making and Interpretability
 
