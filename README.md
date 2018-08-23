@@ -38,6 +38,7 @@ Introduction to Weapons of Math Destruction.
 **Week 3: Ethical Intuitions**
 
 **Week 4: Ethical Foundations**
+
 [Political Philosophy](https://TODO)
 
 **Week 5: Fairness**
