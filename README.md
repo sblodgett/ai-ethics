@@ -58,6 +58,10 @@ Week 8: Privacy
 [Want to Predict the Future of Surveillance? Ask Poor Communities]
 (https://github.com/sblodgett/ai-ethics/blob/master/readings/privacy/future_of_surveillance.pdf)
 
+Challenge reading: 
+[Face Off: Law Enforcement Use Of
+Face Recognition Technology](https://github.com/sblodgett/ai-ethics/blob/master/readings/privacy/face-off-report-1b.pdf)
+
 Week 9: Privacy
 
 [Amazon Echo and the Hot Tub Murder](https://github.com/sblodgett/ai-ethics/blob/master/readings/privacy/Echo.pdf)
