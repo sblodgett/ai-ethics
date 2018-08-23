@@ -83,6 +83,7 @@ Challenge reading:
 **Week 11: Accountability and Regulation**
 
 [The next big battle over internet freedom is here](https://www.vox.com/policy-and-politics/2018/4/23/17237640/fosta-sesta-section-230-internet-freedom)
+
 [What the government could actually do about Facebook](https://www.vox.com/policy-and-politics/2018/4/10/17208322/facebook-mark-zuckerberg-congress-testimony-regulation)
 
 **Week 12: Diversity**
