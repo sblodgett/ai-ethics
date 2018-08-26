@@ -16,7 +16,8 @@ Ethical Issues Surrounding Artificial Intelligence Systems and Big Data
 This course will consider some large questions surrounding ethics in artificial intelligence systems. These questions include:
 
 - Do computers make decisions in a way that is more fair and less biased than people?
-- 
+
+- What are the political, legal, social, economic and technological forces that govern the digital world? Which forces are in opposition? Which forces are aligned?
 
 # Schedule and readings
 <a name="readings"/>
