@@ -22,8 +22,6 @@ This course will consider some large questions surrounding ethics in artificial 
 
 Readings and videos listed under each week are to be done before that week's class.
 
-## Schedule
-
 **Week 1: Inspiration**
 
 **Week 2: Machine Learning Foundations**
