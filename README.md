@@ -90,6 +90,10 @@ Challenge: [Simple Demographics Often Identify People Uniquely](https://datapriv
 
 **Week 10: Automated Decision-Making and Interpretability**
 
+[The Dark Secret at the Heart of AI](https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/)
+
+[When Is It Important for an Algorithm to Explain Itself?](https://hbr.org/2018/07/when-is-it-important-for-an-algorithm-to-explain-itself)
+
 **Week 11: Accountability and Regulation**
 
 [The next big battle over internet freedom is here](https://www.vox.com/policy-and-politics/2018/4/23/17237640/fosta-sesta-section-230-internet-freedom)
@@ -97,6 +101,10 @@ Challenge: [Simple Demographics Often Identify People Uniquely](https://datapriv
 [What the government could actually do about Facebook](https://www.vox.com/policy-and-politics/2018/4/10/17208322/facebook-mark-zuckerberg-congress-testimony-regulation)
 
 **Week 12: Diversity**
+
+[The Real Reason Women Quit Tech (and How to Address It)](https://medium.com/tech-diversity-files/the-real-reason-women-quit-tech-and-how-to-address-it-6dfb606929fd)
+
+[We tested bots like Siri and Alexa to see who would stand up to sexual harassment](https://qz.com/911681/we-tested-apples-siri-amazon-echos-alexa-microsofts-cortana-and-googles-google-home-to-see-which-personal-assistant-bots-stand-up-for-themselves-in-the-face-of-sexual-harassment/)
 
 **Week 13: AI for Social Good and Reflection**
 
