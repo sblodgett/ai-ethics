@@ -38,7 +38,7 @@ Introduction to Weapons of Math Destruction.
 
 **Week 3: Ethical Intuitions**
 
-[Why Stanford Researchers Tried to Create a ‘Gaydar’ Machine]
+[Why Stanford Researchers Tried to Create a ‘Gaydar’ Machine, New York Times]
 (https://www.nytimes.com/2017/10/09/science/stanford-sexual-orientation-study.html)
 
 **Week 4: Ethical Foundations**
