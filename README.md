@@ -49,6 +49,9 @@ Introduction to Weapons of Math Destruction.
 [A computer program used for bail and sentencing decisions was labeled biased against blacks. It’s actually not that clear.](https://www.washingtonpost.com/news/monkey-cage/wp/2016/10/17/can-an-algorithm-be-racist-our-analysis-is-more-cautious-than-propublicas/)
 
 **Week 6: Fairness**
+[Semantics derived automatically from language corpora contain human-like biases, Science](http://science.sciencemag.org/content/356/6334/183/tab-pdf)
+
+[How Vector Space Mathematics Reveals the Hidden Sexism in Language, MIT Technology Review](https://www.technologyreview.com/s/602025/how-vector-space-mathematics-reveals-the-hidden-sexism-in-language/)
 
 **Week 7: Fairness**
 
