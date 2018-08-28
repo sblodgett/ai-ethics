@@ -86,9 +86,7 @@ Challenge: [Face Off: Law Enforcement Use Of Face Recognition Technology](https:
 [Congressional Republicans just voted to let ISPs sell your browsing history to advertisers
 ](https://github.com/sblodgett/ai-ethics/blob/master/readings/privacy/VoxISPs.pdf)
 
-Challenge reading:
-
-[Simple Demographics Often Identify People Uniquely](https://dataprivacylab.org/projects/identifiability/paper1.pdf)
+Challenge: [Simple Demographics Often Identify People Uniquely](https://dataprivacylab.org/projects/identifiability/paper1.pdf)
 
 **Week 10: Automated Decision-Making and Interpretability**
 
