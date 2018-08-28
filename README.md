@@ -36,6 +36,8 @@ Introduction to Weapons of Math Destruction.
 
 [Advances in AI are used to spot signs of sexuality](https://www.economist.com/science-and-technology/2017/09/09/advances-in-ai-are-used-to-spot-signs-of-sexuality)
 
+[Why Stanford Researchers Tried to Create a ‘Gaydar’ Machine](https://www.nytimes.com/2017/10/09/science/stanford-sexual-orientation-study.html)
+
 Challenge: [Author's Note, Kosinski and Wang](https://docs.google.com/document/d/11oGZ1Ke3wK9E3BtOFfGfUQuuaSMR8AO2WfWH3aVke6U)
 
 **Week 4: Ethical Foundations**
@@ -117,6 +119,7 @@ You can expect us:
 - To start and end class on time
 - To reply to emails within 24 hours on weekdays and 48 hours on weekends
 - To assign readings and class activities that will foster engaging discussion
+
 
 We can expect you:
 - To come to class on time
