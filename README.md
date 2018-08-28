@@ -100,6 +100,8 @@ Challenge: [Simple Demographics Often Identify People Uniquely](https://datapriv
 
 **Week 12: Diversity**
 
+[The Tech Industry’s Gender-Discrimination Problem](https://www.newyorker.com/magazine/2017/11/20/the-tech-industrys-gender-discrimination-problem)
+
 [The Real Reason Women Quit Tech (and How to Address It)](https://medium.com/tech-diversity-files/the-real-reason-women-quit-tech-and-how-to-address-it-6dfb606929fd)
 
 [We tested bots like Siri and Alexa to see who would stand up to sexual harassment](https://qz.com/911681/we-tested-apples-siri-amazon-echos-alexa-microsofts-cortana-and-googles-google-home-to-see-which-personal-assistant-bots-stand-up-for-themselves-in-the-face-of-sexual-harassment/)
