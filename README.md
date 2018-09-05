@@ -111,7 +111,7 @@ Challenge: [Simple Demographics Often Identify People Uniquely](https://datapriv
 # Grading
 <a name="grading"/>
 
-Your grade will we be based equally on the following:
+Your grade will be based equally on the following:
 
 - **50%** Online reading responses. Each week in this course you will write an online response to the readings on Moodle. You must turn in your response *before* class to receive credit for the week. 
 - **50%** Participation during class discussions. This class will have weekly in-class discussions. Different students may participate in different ways: for instance by talking in large groups, talking in small groups or listening carefully to others.
