@@ -132,4 +132,4 @@ We can expect you:
 - Since we will be discussing complex issues, to come with an open mind
 - To assume the best of others' intentions in discussion
 - To be respectful of others' viewpoints
-- As much as possible, transcend "I feel" by backing up comments with evidence, argumentation, or recognition of inherent tradeoffs
+- As much as possible, back up comments with evidence, argumentation, or recognition of inherent tradeoffs
