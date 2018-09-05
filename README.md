@@ -19,6 +19,8 @@ This course will consider some large questions surrounding ethics in artificial 
 
 - What are the political, legal, social, economic and technological forces that govern the digital world? Which forces are in opposition? Which forces are aligned?
 
+- What role does the government currently play in directing AI technology in the United States? What role *could* the government play? What are the advantages and disadvantages of different approaches?
+
 # Schedule and readings
 <a name="readings"/>
 
