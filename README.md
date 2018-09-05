@@ -76,13 +76,13 @@ Challenge: [Face Off: Law Enforcement Use Of Face Recognition Technology](https:
 
 **Week 9: Privacy**
 
-[Amazon Echo and the Hot Tub Murder](https://github.com/sblodgett/ai-ethics/blob/master/readings/privacy/Echo.pdf)
+[Amazon Echo and the Hot Tub Murder](https://github.com/sblodgett/ai-ethics/blob/master/readings/week9/Echo.pdf)
 
 [How Target Figured Out A Teen Girl Was Pregnant Before Her Father Did
-](https://github.com/sblodgett/ai-ethics/blob/week9/readings/privacy/Target.pdf)
+](https://github.com/sblodgett/ai-ethics/blob/master/readings/week9/Target.pdf)
 
 [Congressional Republicans just voted to let ISPs sell your browsing history to advertisers
-](https://github.com/sblodgett/ai-ethics/blob/week9/readings/privacy/VoxISPs.pdf)
+](https://github.com/sblodgett/ai-ethics/blob/master/readings/week9/VoxISPs.pdf)
 
 Challenge: [Simple Demographics Often Identify People Uniquely](https://dataprivacylab.org/projects/identifiability/paper1.pdf)
 
