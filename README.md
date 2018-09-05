@@ -50,7 +50,7 @@ Challenge: [Author's Note, Kosinski and Wang](https://docs.google.com/document/d
 
 [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 
-[A computer program used for bail and sentencing decisions was labeled biased against blacks. It’s actually not that clear.](https://github.com/sblodgett/ai-ethics/blob/master/readings/week5/computer_program_bail_sentencing.pdf machine_bias.pdf)
+[A computer program used for bail and sentencing decisions was labeled biased against blacks. It’s actually not that clear.](https://github.com/sblodgett/ai-ethics/blob/master/readings/week5/computer_program_bail_sentencing.pdf)
 
 Challenge: [Even Imperfect Algorithms Can Improve the Criminal Justice System](https://github.com/sblodgett/ai-ethics/blob/master/readings/week5/imperfect_algorithms.pdf)
 
