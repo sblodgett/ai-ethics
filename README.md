@@ -24,6 +24,8 @@ This course will consider some large questions surrounding ethics in artificial 
 
 Readings and videos listed under each week are to be done before that week's class.
 
+Reading response guidelines and a sample response can be found [here](https://github.com/sblodgett/ai-ethics/blob/master/reading_guidelines.pdf).
+
 **Week 1: Inspiration**
 
 **Week 2: Machine Learning Foundations**
