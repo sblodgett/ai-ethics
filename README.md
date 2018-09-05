@@ -46,9 +46,9 @@ Challenge: [Author's Note, Kosinski and Wang](https://docs.google.com/document/d
 
 [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 
-[A computer program used for bail and sentencing decisions was labeled biased against blacks. It’s actually not that clear.](https://www.washingtonpost.com/news/monkey-cage/wp/2016/10/17/can-an-algorithm-be-racist-our-analysis-is-more-cautious-than-propublicas/)
+[A computer program used for bail and sentencing decisions was labeled biased against blacks. It’s actually not that clear.](https://github.com/sblodgett/ai-ethics/blob/master/readings/week5/computer_program_bail_sentencing.pdf machine_bias.pdf)
 
-Challenge: [Even Imperfect Algorithms Can Improve the Criminal Justice System](https://www.nytimes.com/2017/12/20/upshot/algorithms-bail-criminal-justice-system.html)
+Challenge: [Even Imperfect Algorithms Can Improve the Criminal Justice System](https://github.com/sblodgett/ai-ethics/blob/master/readings/week5/imperfect_algorithms.pdf)
 
 **Week 6: Fairness**
 
@@ -62,7 +62,7 @@ Challenge: [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Wo
 
 ['Three black teenagers' Google search sparks outrage](https://www.usatoday.com/story/tech/news/2016/06/09/google-image-search-three-black-teenagers-three-white-teenagers/85648838/)
 
-[Racism is Poisoning Online Ad Delivery, Says Harvard Professor](https://www.technologyreview.com/s/510646/racism-is-poisoning-online-ad-delivery-says-harvard-professor/)
+[Racism is Poisoning Online Ad Delivery, Says Harvard Professor](https://github.com/sblodgett/ai-ethics/blob/master/readings/week7/racism_poisoning_ad_delivery.pdf)
 
 [Facebook Lets Advertisers Exclude Users by Race](https://www.propublica.org/article/facebook-lets-advertisers-exclude-users-by-race)
 
@@ -88,9 +88,9 @@ Challenge: [Simple Demographics Often Identify People Uniquely](https://datapriv
 
 **Week 10: Automated Decision-Making and Interpretability**
 
-[The Dark Secret at the Heart of AI](https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/)
+[The Dark Secret at the Heart of AI](https://github.com/sblodgett/ai-ethics/blob/master/readings/week10/dark_secret_heart_ai.pdf)
 
-[When Is It Important for an Algorithm to Explain Itself?](https://hbr.org/2018/07/when-is-it-important-for-an-algorithm-to-explain-itself)
+[When Is It Important for an Algorithm to Explain Itself?](https://github.com/sblodgett/ai-ethics/blob/master/readings/week10/when_important_algorithm_explain_itself.pdf)
 
 **Week 11: Accountability and Regulation**
 
@@ -100,11 +100,11 @@ Challenge: [Simple Demographics Often Identify People Uniquely](https://datapriv
 
 **Week 12: Diversity**
 
-[The Tech Industry’s Gender-Discrimination Problem](https://www.newyorker.com/magazine/2017/11/20/the-tech-industrys-gender-discrimination-problem)
+[The Tech Industry’s Gender-Discrimination Problem](https://github.com/sblodgett/ai-ethics/blob/master/readings/week12/tech_industry_gender_discrimination.pdf)
 
 [The Real Reason Women Quit Tech (and How to Address It)](https://medium.com/tech-diversity-files/the-real-reason-women-quit-tech-and-how-to-address-it-6dfb606929fd)
 
-[We tested bots like Siri and Alexa to see who would stand up to sexual harassment](https://qz.com/911681/we-tested-apples-siri-amazon-echos-alexa-microsofts-cortana-and-googles-google-home-to-see-which-personal-assistant-bots-stand-up-for-themselves-in-the-face-of-sexual-harassment/)
+[We tested bots like Siri and Alexa to see who would stand up to sexual harassment](https://github.com/sblodgett/ai-ethics/blob/master/readings/week12/tested_sexual_harassment.pdf)
 
 **Week 13: AI for Social Good and Reflection**
 
