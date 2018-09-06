@@ -32,7 +32,7 @@ Reading response guidelines and a sample response can be found [here](https://gi
 
 [Machine Learning and Human Bias](https://www.youtube.com/watch?v=59bMh59JQDo)
 
-[Introduction to Weapons of Math Destruction.](https://github.com/sblodgett/ai-ethics/blob/master/readings/week2/weapons_math_destruction_introduction.pdf)
+[Introduction to Weapons of Math Destruction.](https://weaponsofmathdestructionbook.com/)
 
 **Week 3: Ethical Intuitions**
 
