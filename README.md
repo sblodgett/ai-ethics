@@ -32,7 +32,9 @@ Reading response guidelines and a sample response can be found [here](https://gi
 
 [Machine Learning and Human Bias](https://www.youtube.com/watch?v=59bMh59JQDo)
 
-[Introduction to Weapons of Math Destruction.](https://weaponsofmathdestructionbook.com/)
+[AI can be sexist and racist — it’s time to make it fair](https://www.nature.com/articles/d41586-018-05707-8)
+
+[Introduction to Weapons of Math Destruction.](https://weaponsofmathdestructionbook.com/) Check Moodle for the week's reading.
 
 **Week 3: Ethical Intuitions**
 
