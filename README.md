@@ -46,7 +46,7 @@ Challenge: [Author's Note, Kosinski and Wang](https://docs.google.com/document/d
 
 **Week 4: Ethical Foundations**
 
-[Political Philosophy](https://TODO)
+[Political Philosophy](https://github.com/sblodgett/ai-ethics/blob/master/readings/week4/D110_20180908152445.PDF)
 
 **Week 5: Fairness**
 
