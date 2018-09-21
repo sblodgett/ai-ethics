@@ -47,6 +47,7 @@ Challenge: [Author's Note, Kosinski and Wang](https://docs.google.com/document/d
 **Week 4: Ethical Foundations**
 
 [Social Philosophy: Marx, Rawls and Nozick](https://github.com/sblodgett/ai-ethics/blob/master/readings/week4/D110_20180908152445.PDF)
+- Reading is from Donald Palmer: Does the Center Hold?
 
 Challenge: [Stanford Encyclopedia of Philosophy: Philosophy of Technology](https://plato.stanford.edu/entries/technology/)
 
