@@ -46,7 +46,9 @@ Challenge: [Author's Note, Kosinski and Wang](https://docs.google.com/document/d
 
 **Week 4: Ethical Foundations**
 
-[Political Philosophy](https://github.com/sblodgett/ai-ethics/blob/master/readings/week4/D110_20180908152445.PDF)
+[Social Philosophy: Marx, Rawls and Nozick](https://github.com/sblodgett/ai-ethics/blob/master/readings/week4/D110_20180908152445.PDF)
+
+Challenge: [Stanford Encyclopedia of Philosophy: Philosophy of Technology](https://plato.stanford.edu/entries/technology/)
 
 **Week 5: Fairness**
 
