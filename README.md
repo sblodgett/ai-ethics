@@ -95,6 +95,10 @@ Challenge: [Face Off: Law Enforcement Use Of Face Recognition Technology](https:
 
 Challenge: [Simple Demographics Often Identify People Uniquely](https://dataprivacylab.org/projects/identifiability/paper1.pdf)
 
+Preview of reading in class:
+[TapPrints: Your Finger Taps Have Fingerprints](https://github.com/sblodgett/ai-ethics/blob/master/readings/week9/VoxISPs.pdf)
+
+
 **Week 10: Automated Decision-Making and Interpretability**
 
 [The Dark Secret at the Heart of AI](https://github.com/sblodgett/ai-ethics/blob/master/readings/week10/dark_secret_heart_ai.pdf)
