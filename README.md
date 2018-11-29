@@ -120,6 +120,7 @@ Preview of reading (in class):
 [We tested bots like Siri and Alexa to see who would stand up to sexual harassment](https://github.com/sblodgett/ai-ethics/blob/master/readings/week12/tested_sexual_harassment.pdf)
 
 **Week 13: AI for Social Good and Reflection**
+
 [Final presentation instructions](final_presentation_instructions.pdf)
 
 # Grading
