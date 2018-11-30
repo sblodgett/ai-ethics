@@ -98,7 +98,6 @@ Challenge: [Simple Demographics Often Identify People Uniquely](https://datapriv
 Preview of reading (in class):
 [TapPrints: Your Finger Taps Have Fingerprints](https://github.com/sblodgett/ai-ethics/blob/master/readings/week9/gyro.pdf)
 
-
 **Week 10: Automated Decision-Making and Interpretability**
 
 [The Dark Secret at the Heart of AI](https://github.com/sblodgett/ai-ethics/blob/master/readings/week10/dark_secret_heart_ai.pdf)
@@ -119,7 +118,7 @@ Preview of reading (in class):
 
 [We tested bots like Siri and Alexa to see who would stand up to sexual harassment](https://github.com/sblodgett/ai-ethics/blob/master/readings/week12/tested_sexual_harassment.pdf)
 
-Additional readings that on issues other than gender:
+Additional readings that touch on issues other than gender:
 
 [Why Tech Leadership Has a Bigger Race than Gender Problem](https://www.wired.com/story/tech-leadership-race-problem/)
 
