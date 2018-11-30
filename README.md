@@ -115,6 +115,18 @@ Challenge: [Simple Demographics Often Identify People Uniquely](https://datapriv
 
 [We tested bots like Siri and Alexa to see who would stand up to sexual harassment](https://github.com/sblodgett/ai-ethics/blob/master/readings/week12/tested_sexual_harassment.pdf)
 
+Additional readings that on issues other than gender:
+
+[Why Tech Leadership Has a Bigger Race than Gender Problem](https://www.wired.com/story/tech-leadership-race-problem/)
+
+[Why Is Science So Straight?](https://www.nytimes.com/2015/09/05/opinion/manil-suri-why-is-science-so-straight.html)
+
+[STEM is losing male LGBQ undergrads](http://www.sciencemag.org/careers/2018/03/stem-losing-male-lgbq-undergrads)
+
+[When disability tech is just a marketing exercise](https://theoutline.com/post/2452/when-disability-tech-is-just-a-marketing-exercise?zd=1&zi=girqms4f)
+
+[Why the tech industry needs people with disabilities — and vice versa](http://thegroundtruthproject.org/tech-industry-needs-people-disabilities-vice-versa/)
+
 **Week 13: AI for Social Good and Reflection**
 
 # Grading
