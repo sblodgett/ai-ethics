@@ -26,7 +26,11 @@ Readings and videos listed under each week are to be done before that week's cla
 
 Reading response guidelines and a sample response can be found [here](https://github.com/sblodgett/ai-ethics/blob/master/reading_guidelines.pdf).
 
+Additional resources for selected weeks can be found in the [worksheets](https://github.com/sblodgett/ai-ethics/blob/master/worksheets/) and [slides](https://github.com/sblodgett/ai-ethics/blob/master/slides/) folders. 
+
 **Week 1: Inspiration**
+
+[First and last day reflection](https://github.com/sblodgett/ai-ethics/blob/master/worksheets/first_day_last_day_reflection.pdf) 
 
 **Week 2: Machine Learning Foundations**
 
