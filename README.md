@@ -38,7 +38,7 @@ Additional resources for selected weeks can be found in the [worksheets](https:/
 
 [AI can be sexist and racist — it’s time to make it fair](https://www.nature.com/articles/d41586-018-05707-8). Zou and Schiebinger. Nature. 
 
-[Introduction, Weapons of Math Destruction.](https://weaponsofmathdestructionbook.com/). Cathy O'Neil. Check Moodle for the week's reading.
+[Introduction, Weapons of Math Destruction](https://weaponsofmathdestructionbook.com/). Cathy O'Neil. Check Moodle for the week's reading.
 
 **Week 3: Ethical Intuitions**
 
@@ -58,7 +58,7 @@ Challenge: [Stanford Encyclopedia of Philosophy: Philosophy of Technology](https
 
 [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing). Angwin, Larson, Mattu and Kirchner. ProPublica.
 
-[A computer program used for bail and sentencing decisions was labeled biased against blacks. It’s actually not that clear.](https://github.com/sblodgett/ai-ethics/blob/master/readings/week5/computer_program_bail_sentencing.pdf). Corbett-Davies, Pierson, Feller, and Goel. The Washington Post. 
+[A computer program used for bail and sentencing decisions was labeled biased against blacks. It’s actually not that clear.](https://github.com/sblodgett/ai-ethics/blob/master/readings/week5/computer_program_bail_sentencing.pdf) Corbett-Davies, Pierson, Feller, and Goel. The Washington Post. 
 
 Challenge: [Even Imperfect Algorithms Can Improve the Criminal Justice System](https://github.com/sblodgett/ai-ethics/blob/master/readings/week5/imperfect_algorithms.pdf). Corbett-Davies, Goel, and Gonzalez-Bailon. The New York Times. 
 
@@ -93,8 +93,7 @@ Challenge: [Face Off: Law Enforcement Use Of Face Recognition Technology](https:
 [How Target Figured Out A Teen Girl Was Pregnant Before Her Father Did
 ](https://github.com/sblodgett/ai-ethics/blob/master/readings/week9/Target.pdf). Hill. Forbes. 
 
-[Congressional Republicans just voted to let ISPs sell your browsing history to advertisers
-](https://github.com/sblodgett/ai-ethics/blob/master/readings/week9/VoxISPs.pdf). Lee. Vox. 
+[Congressional Republicans just voted to let ISPs sell your browsing history to advertisers](https://github.com/sblodgett/ai-ethics/blob/master/readings/week9/VoxISPs.pdf). Lee. Vox. 
 
 Challenge: [Simple Demographics Often Identify People Uniquely](https://dataprivacylab.org/projects/identifiability/paper1.pdf). Sweeney. Health. 
 
@@ -105,7 +104,7 @@ Preview of reading (in class):
 
 [The Dark Secret at the Heart of AI](https://github.com/sblodgett/ai-ethics/blob/master/readings/week10/dark_secret_heart_ai.pdf). Knight. MIT Technology Review. 
 
-[When Is It Important for an Algorithm to Explain Itself?](https://github.com/sblodgett/ai-ethics/blob/master/readings/week10/when_important_algorithm_explain_itself.pdf). Hume. Harvard Business Review. 
+[When Is It Important for an Algorithm to Explain Itself?](https://github.com/sblodgett/ai-ethics/blob/master/readings/week10/when_important_algorithm_explain_itself.pdf) Hume. Harvard Business Review. 
 
 **Week 11: Accountability and Regulation**
 
@@ -121,7 +120,7 @@ Preview of reading (in class):
 
 [We tested bots like Siri and Alexa to see who would stand up to sexual harassment](https://github.com/sblodgett/ai-ethics/blob/master/readings/week12/tested_sexual_harassment.pdf). Fessler. Quartz. 
 
-Additional readings that touch on issues other than gender:
+*Additional readings that touch on issues other than gender:*
 
 [Why Tech Leadership Has a Bigger Race than Gender Problem](https://www.wired.com/story/tech-leadership-race-problem/). Tiku. Wired. 
 
